@@ -14,10 +14,8 @@ permalinks:
   post: /:year/:month/:day/:slug/
 menu:
   main:
-    - name: About
+    - name: Membre
       url: /about/
-    - name: GitHub
-      url: https://github.com/rstudio/blogdown
     - name: Twitter
       url: https://twitter.com/rstudio
 params:
