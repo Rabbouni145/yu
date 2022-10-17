@@ -14,6 +14,8 @@ permalinks:
   post: /:year/:month/:day/:slug/
 menu:
   main:
+    - name: Acceuil
+      url: /
     - name: Membre
       url: /about/
     - name: Twitter
